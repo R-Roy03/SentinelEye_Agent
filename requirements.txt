@@ -1,0 +1,24 @@
+# --- Core Server ---
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+
+# --- Database (Async) ---
+motor
+# (Note: 'pymongo' motor ke saath khud install ho jayega)
+
+# --- AI & Logic ---
+google-genai
+# (Humne 'google-generativeai' hata diya kyunki naya SDK 'google-genai' hai)
+
+# --- Tools ---
+tavily-python
+requests
+Pillow
+pypdf
+beautifulsoup4
+
+# --- Utilities ---
+aiofiles
+pytz
